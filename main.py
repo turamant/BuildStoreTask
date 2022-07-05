@@ -17,3 +17,5 @@ print(data['bpi']['EUR']['rate'])
 
 print(data['bpi']['GBP']['code'])
 print(data['bpi']['GBP']['rate'])
+
+print(data)
